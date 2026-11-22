@@ -9,6 +9,7 @@ ryuuusm이 Google Play에 출시하는 앱의 개인정보처리방침입니다.
 | 미니 땅굴 파기 (Mini Burrow Dig) | [digger.md](digger.md) |
 | 작은 포션 가게 (Little Potion Shop) | [potion.md](potion.md) |
 | 용 랜타디 (Dragon Random TD) | [dragon.md](dragon.md) |
+| 로봇 기지 키우기 (Bot Base) | [botbase.md](botbase.md) |
 | 사진 금고 | [photovault.md](photovault.md) |
 | 사진첩-잠자는쿠폰찾기 | [giftcon.md](giftcon.md) |
 | 얼마냈지 | [gyeongjo.md](gyeongjo.md) |
